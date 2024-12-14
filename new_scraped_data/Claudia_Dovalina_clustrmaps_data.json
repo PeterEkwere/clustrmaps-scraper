@@ -1,0 +1,39 @@
+{
+    "full_name": "Claudia Dovalina",
+    "age": "45",
+    "location": "TX",
+    "email": "dovalinac@gilbertintl.com",
+    "phone_number": "(210) 314-5204",
+    "associated_persons": [
+        {
+            "name": "Ryan S Hollis",
+            "age": "27",
+            "phone": "(210) 637-9763"
+        },
+        {
+            "name": "Angel O Montanez",
+            "age": "40",
+            "phone": "(830) 776-4579"
+        },
+        {
+            "name": "Chris Hosier",
+            "age": "31",
+            "phone": "(971) 279-3569"
+        },
+        {
+            "name": "Christina Ingole",
+            "age": "47",
+            "phone": "(719) 574-4825"
+        },
+        {
+            "name": "Nancy Fonseca",
+            "age": "51",
+            "phone": "(775) 434-4256"
+        },
+        {
+            "name": "Hilda G Hernandez",
+            "age": "43",
+            "phone": "(210) 452-1171"
+        }
+    ]
+}

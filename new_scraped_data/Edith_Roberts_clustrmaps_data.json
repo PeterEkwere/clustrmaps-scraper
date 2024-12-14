@@ -1,0 +1,23 @@
+{
+    "full_name": "Edith Mc Roberts",
+    "age": "",
+    "location": "KS",
+    "email": "",
+    "phone_number": "(785) 499-6373",
+    "associated_persons": [
+        {
+            "name": "Barbara J Fink",
+            "age": "71",
+            "phone": "(785) 499-6373"
+        },
+        {
+            "name": "Jack S Fink",
+            "age": "71",
+            "phone": "(785) 499-6373"
+        },
+        {
+            "name": "Jeanne Fink",
+            "phone": "(785) 499-6373"
+        }
+    ]
+}

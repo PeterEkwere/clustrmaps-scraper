@@ -1,0 +1,17 @@
+{
+    "full_name": "John Pollace",
+    "age": "80",
+    "location": "IL",
+    "email": "jpollace@aol.com",
+    "phone_number": "(630) 287-1631",
+    "associated_persons": [
+        {
+            "name": "Patricia A Geraci",
+            "age": "~54",
+            "phone": "(847) 524-0899"
+        },
+        {
+            "name": "Rosa Meyer"
+        }
+    ]
+}

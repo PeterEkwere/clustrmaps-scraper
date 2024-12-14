@@ -1,0 +1,24 @@
+{
+    "full_name": "James P Jr",
+    "age": "",
+    "location": "HI",
+    "email": "",
+    "phone_number": "(808) 228-6406",
+    "associated_persons": [
+        {
+            "name": "Helen K Akiona",
+            "age": "69",
+            "phone": "(808) 228-6406"
+        },
+        {
+            "name": "James J Akiona",
+            "age": "78",
+            "phone": "(808) 228-5159"
+        },
+        {
+            "name": "Missy Akiona",
+            "age": "~53",
+            "phone": "(808) 221-2984"
+        }
+    ]
+}

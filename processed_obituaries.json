@@ -1,0 +1,113 @@
+{
+  "Edward John Pollace": {
+    "full_name": "John Pollace",
+    "age": "80",
+    "location": "IL",
+    "email": "jpollace@aol.com",
+    "phone_number": "(630) 287-1631",
+    "associated_persons": [
+      {
+        "name": "Patricia A Geraci",
+        "age": "~54",
+        "phone": "(847) 524-0899"
+      },
+      {
+        "name": "Rosa Meyer"
+      }
+    ]
+  },
+  "Susan Pianoforte": {
+    "full_name": "James P Jr",
+    "age": "",
+    "location": "HI",
+    "email": "",
+    "phone_number": "(808) 228-6406",
+    "associated_persons": [
+      {
+        "name": "Helen K Akiona",
+        "age": "69",
+        "phone": "(808) 228-6406"
+      },
+      {
+        "name": "James J Akiona",
+        "age": "78",
+        "phone": "(808) 228-5159"
+      },
+      {
+        "name": "Missy Akiona",
+        "age": "~53",
+        "phone": "(808) 221-2984"
+      }
+    ]
+  },
+  "Carlos H. Dovalina": {
+    "full_name": "Claudia Dovalina",
+    "age": "45",
+    "location": "TX",
+    "email": "dovalinac@gilbertintl.com",
+    "phone_number": "(210) 314-5204",
+    "associated_persons": [
+      {
+        "name": "Ryan S Hollis",
+        "age": "27",
+        "phone": "(210) 637-9763"
+      },
+      {
+        "name": "Angel O Montanez",
+        "age": "40",
+        "phone": "(830) 776-4579"
+      },
+      {
+        "name": "Chris Hosier",
+        "age": "31",
+        "phone": "(971) 279-3569"
+      },
+      {
+        "name": "Christina Ingole",
+        "age": "47",
+        "phone": "(719) 574-4825"
+      },
+      {
+        "name": "Nancy Fonseca",
+        "age": "51",
+        "phone": "(775) 434-4256"
+      },
+      {
+        "name": "Hilda G Hernandez",
+        "age": "43",
+        "phone": "(210) 452-1171"
+      }
+    ]
+  },
+  "Melvina Fern Roberts": {
+    "full_name": "Edith Mc Roberts",
+    "age": "",
+    "location": "KS",
+    "email": "",
+    "phone_number": "(785) 499-6373",
+    "associated_persons": [
+      {
+        "name": "Barbara J Fink",
+        "age": "71",
+        "phone": "(785) 499-6373"
+      },
+      {
+        "name": "Jack S Fink",
+        "age": "71",
+        "phone": "(785) 499-6373"
+      },
+      {
+        "name": "Jeanne Fink",
+        "phone": "(785) 499-6373"
+      }
+    ]
+  },
+  "Fred Frank Pitzing": {
+    "full_name": "Martha J Pitzing",
+    "age": "72",
+    "location": "AL",
+    "email": "",
+    "phone_number": "(256) 727-6429",
+    "associated_persons": []
+  }
+}
